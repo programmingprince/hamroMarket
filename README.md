@@ -1,1 +1,1 @@
-This is our class project for django.
+This is our class project for python and django course.
